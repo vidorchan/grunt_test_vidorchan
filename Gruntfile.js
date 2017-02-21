@@ -66,7 +66,7 @@ module.exports = function(grunt) {
 				tasks: ['jshint:all', 'csslint', 'uglify:all'],
 				options: {
 					interrupt: true,
-					livereload: true;
+					livereload: true
 				}
 			}
 		}
